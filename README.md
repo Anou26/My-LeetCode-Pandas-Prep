@@ -13,4 +13,11 @@
   - LeetCode Easy 2884: Modify Columns
   - LeetCode Easy 2885: Rename Columns
   - LeetCode Easy 2886: Change Data Type
-
+  
+  # Dat 3 (09/05/2024) - Python Pandas on LeetCode
+  - LeetCode Easy 2887: Fill Missing Data
+  - LeetCode Easy 2888: Reshape Data: Concatenate
+  - LeetCode Easy 2889: Reshape Data: Pivot
+  - LeetCode Easy 2890: Reshape Data: Melt
+  - LeetCode Easy 2891: Method Chaining
+ 
