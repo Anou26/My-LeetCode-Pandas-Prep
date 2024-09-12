@@ -7,14 +7,14 @@
   - LeetCode Easy 2880: Select Data
   - LeetCode Easy 2881: Create a New Column
 
-  ## Day 2 - Python Pandas on LeetCode
+## Day 2 - Python Pandas on LeetCode
   - LeetCode Easy 2882: Drop Duplicate Rows
   - LeetCode Easy 2883: Drop Missing Data
   - LeetCode Easy 2884: Modify Columns
   - LeetCode Easy 2885: Rename Columns
   - LeetCode Easy 2886: Change Data Type
   
-  # Dat 3 - Python Pandas on LeetCode
+## Day 3 - Python Pandas on LeetCode
   - LeetCode Easy 2887: Fill Missing Data
   - LeetCode Easy 2888: Reshape Data: Concatenate
   - LeetCode Easy 2889: Reshape Data: Pivot
