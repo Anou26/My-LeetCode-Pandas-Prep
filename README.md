@@ -20,4 +20,6 @@
   - LeetCode Easy 2889: Reshape Data: Pivot
   - LeetCode Easy 2890: Reshape Data: Melt
   - LeetCode Easy 2891: Method Chaining
- 
+
+## Day 4 - Python Pandas on LeetCode
+  - 
