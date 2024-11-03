@@ -15,3 +15,11 @@
   - LeetCode Easy 2891: Method Chaining
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [3660-second-highest-salary-ii](https://github.com/Anou26/My-LeetCode-Pandas-Prep/tree/master/3660-second-highest-salary-ii) |
+<!---LeetCode Topics End-->
